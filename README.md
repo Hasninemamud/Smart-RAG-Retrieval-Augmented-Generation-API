@@ -196,13 +196,8 @@ smart-rag/
 
 ---
 
-## Extending and Customization
-
-* Swap embedding model by changing `EMBEDDING_MODEL` in `.env`
-* Use Ollama or HuggingFace LLMs by configuring `RAG_LLM_KIND`
-* Add authentication, rate limiting, or database persistence for production
-* Improve chunking, indexing, or prompt templates for better accuracy
 
 
 
-If you want, I can generate a **README.md** file with this content ready to put in your repo! Would you like that?
+
+
