@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pypdf
+python-docx
+pillow
+pytesseract
+pandas
+sentence-transformers
+faiss-cpu
+requests
+pydantic
+Streamlit 
